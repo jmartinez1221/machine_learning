@@ -1,0 +1,5 @@
+# requirements for "Machine Learning, Data Science and Deep Learning with Python" Udemy course
+jupyter
+notebook
+pydotplus
+tensorflow
